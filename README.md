@@ -17,17 +17,6 @@ Aplicación de escritorio en Java que simula duelos estratégicos de Yu-Gi-Oh! c
 - Java 11 o superior
 - Conexión a internet (para API de cartas)
 
-### ▶️ Instrucciones de Ejecución
-
-```bash
-# Navegar al directorio del proyecto
-cd Yugi_Api/Yugi_Oh/
-
-# Compilar el proyecto
-javac -cp . src/duelmasters/**/*.java
-
-# Ejecutar la aplicación
-java -cp src duelmasters.DuelMastersLauncher
 ```
 
 ### 🎮 Cómo Jugar
