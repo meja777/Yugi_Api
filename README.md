@@ -17,7 +17,6 @@ Aplicación de escritorio en Java que simula duelos estratégicos de Yu-Gi-Oh! c
 - Java 11 o superior
 - Conexión a internet (para API de cartas)
 
-```
 
 ### 🎮 Cómo Jugar
 
